@@ -68,7 +68,7 @@ def homepage():
     <title>☁️ Myra Cloud</title>
   </head>
   <body>
-    🌍 Myra Cloud API is running...
+    ☁️ Myra Cloud is running...
   </body>
 </html>""", 200
 
